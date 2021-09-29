@@ -1,5 +1,7 @@
 # [templates](https://webmural.com/templates)
 
+## [`body`](../../../body) [`🌐`](https://webmural.com/body)
+
 ## [`wall`](../../../wall) [`☀️`](https://webmural.com/wall)
 
 ## [`well`](../../../well) [`☯️`](https://webmural.com/well)
