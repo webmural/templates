@@ -1,7 +1,9 @@
-# templates
+# [templates](https://webmural.com/templates)
 
-## [`zero`](../../../zero) is for creating opensource
+## [`wall`](../../../wall) [`☀️`](https://webmural.com/wall)
 
-## [`interweb`](../../../interweb) is for creating webpages
+## [`well`](../../../well) [`☯️`](https://webmural.com/well)
 
-## [`interwebz`](../../../interwebz) `=`  [`interweb`](../../../interweb) `+` [`zero`](../../../zero)
+## [`redirect`](../../../redirect) [`▶️`](https://webmural.com/redirect)
+
+## [`@s9a`](https://github.com/s9a/templates) [`🧿`](https://s9a.page/templates)
