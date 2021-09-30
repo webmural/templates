@@ -3,24 +3,22 @@
 }
 
 [href] {
-  background: magenta;
+  background: deepskyblue;
   border-style: solid;
   border-width: thick;
-  border-color: magenta;
+  border-color: deepskyblue;
   color: #111;
-  padding: 2rem;
-  display: inline-block;
 }
 
 :focus {
   outline-style: outset;
-  outline-color: violet;
+  outline-color: darkviolet;
   outline-width: 2mm;
 }
 
 :link:hover {
   border-style: outset;
-  border-color: violet;
+  border-color: darkviolet;
 }
 
 ::selection {
@@ -31,7 +29,7 @@
 html {
   font-size: calc(1em + 1vmax);
   font-family: sans-serif;
-  background: silver;
+  background: #ed3;
   color: #111;
 }
 
@@ -45,36 +43,40 @@ h1 {
   font-weight: 500;
   font-size: 2rem;
   margin: 0;
+  margin-block-end: 1em;
 }
 
 address {
   font-size: 2rem;
   font-style: inherit;
+  display: flex;
+  flex-flow: column;
+  align-items: flex-start;
 }
 
-menu {
+address :link {
+  margin-inline-end: .5ex;
+  margin-block-end: .5ex;
+}
+
+ul {
+  font-size: 2rem;
   list-style: none;
   padding: 0;
 }
 
 li {
-  margin-block-start: 1ex;
-  margin-block-end: 1rem;
+  margin-block-start: 1.5ex;
+  margin-block-end: 1.5ex;
   margin-inline-start: 0;
   margin-inline-end: 1ex;
 }
 
-li:last-of-type {
-  margin-block-end: 0;
+li :link {
+  padding: .5ex;
 }
 
 li a:first-of-type {
   font-weight: 600;
-  margin-inline-end: -1ch;
-}
-
-@media (orientation: landscape) {
-  li {
-    margin-block-end: -1ex;
-  }
+  margin-inline-end: 0;
 }
