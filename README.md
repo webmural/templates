@@ -6,6 +6,8 @@
 
 ## [`well`](../../../well) [`☯️`](https://webmural.com/well)
 
+## [`formula`](../../../formula) [`🧪`](https://webmural.com/formula)
+
 ## [`redirect`](../../../redirect) [`▶️`](https://webmural.com/redirect)
 
 ## [`@s9a`](https://github.com/s9a/templates) [`🧿`](https://s9a.page/templates)
