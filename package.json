@@ -1,12 +1,8 @@
 {
-  "name": "",
-  "private": true,
-  "homepage": "",
-  "description": "",
-  "version": "0.0.0",
-  "license": "0BSD",
-  "author": "*",
   "scripts": {
+    "ff": "npm run firefox",
+    "firefox": "open -a firefox index.html || start firefox index.html",
+    "start": "npm run firefox",
     "test": "npm doctor"
   }
 }
