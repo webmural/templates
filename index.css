@@ -80,3 +80,7 @@ li a:first-of-type {
   font-weight: 600;
   margin-inline-end: 0;
 }
+
+[hidden]:focus {
+  display: initial;
+}
