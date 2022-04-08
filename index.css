@@ -77,7 +77,6 @@ li :link {
 }
 
 li a:first-of-type {
-  font-weight: 600;
   margin-inline-end: 0;
 }
 
